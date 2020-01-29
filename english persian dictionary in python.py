@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+
 thisdict = {
 "a few": "کمي",
 "a great deal of": "يک دنيا",
@@ -43853,16 +43855,6 @@ thisdict = {
 "pagoda": "پاگودا",
 "paid leave": "مرخصي با حقوق",
 "pain": "درد",
-"pain": "داء",
-"pain": "دردمندي",
-"pain": "رنگ کردن",
-"pain": "رنج",
-"pain": "وجع",
-"pain": "الم",
-"pain": "محنت",
-"pain": "درد کردن",
-"pain": "درد دادن",
-"pain": "تالم",
 "pain killer": "مسکن",
 "pain killer": "دردکش",
 "pained": "منقش",
